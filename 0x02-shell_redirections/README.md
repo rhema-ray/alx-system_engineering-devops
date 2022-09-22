@@ -41,3 +41,10 @@
 - 18-letteronly is a script that displays all lines of the file `/etc/ssh/sshd_config` starting with a letter.
 
 - 19-AZ is a script that replaces all characters `A` and `c` from input to `Z` and `e` respectively.
+
+- 20-hiago is a script that removes all letters `c` and `C` from input.
+
+- 21-reverse is a script that reverse its input.\n
+- 22-users_and_homes is a script that displays all users and their home directories, sorted by users.\n
+- 100-empty_casks is a command that finds all empty files and directories in the current directory and all sub-directories.
+
