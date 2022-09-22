@@ -34,3 +34,6 @@
 
 - 15-countthatword is a script that displays the number of lines containing the pattern “bin” from the file `/etc/passwd`
 
+- 16-whatsnext is a script that displays lines containing the pattern “root” and 3 lines after them in the file `/etc/passwd`.
+
+- 17-hidethisword is a script that displays all the lines in the file `/etc/passwd` that do not contain the pattern “bin”.
