@@ -6,3 +6,5 @@
 
 - 3-paths is a script that counts the number of directories in the PATH.
 
+- 4-global_variables is a script that lists environment variables.
+
